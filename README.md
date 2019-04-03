@@ -1,2 +1,3 @@
 # hash_table
-A simple hash table implementation (not production project)
+
+A realy basic hash table to explain how work's hash table.

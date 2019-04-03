@@ -1,4 +1,4 @@
-build:
+ht_demo: main.c
 	gcc main.c -o ht_demo
 
 clean:
